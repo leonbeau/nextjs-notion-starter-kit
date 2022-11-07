@@ -1,14 +1,16 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '4b8640d21d674c49943d5e6c8e9f6c7a',
+  // rootNotionPageId: '4b8640d21d674c49943d5e6c8e9f6c7a',
+  rootNotionPageId: '5a45c37246df412c84b3b60322113980',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Leonbeau Home-page',
-  domain: 'https://cord-rose-fd5.notion.site/4b8640d21d674c49943d5e6c8e9f6c7a',
+  name: 'NEON WIKI',
+  domain: 'https://cord-rose-fd5.notion.site/5a45c37246df412c84b3b60322113980',
+  // domain: 'https://cord-rose-fd5.notion.site/4b8640d21d674c49943d5e6c8e9f6c7a',
   author: 'leonbeau',
 
   // open graph metadata (optional)
